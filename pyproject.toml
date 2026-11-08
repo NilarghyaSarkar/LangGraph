@@ -8,5 +8,6 @@ dependencies = [
     "dotenv>=0.9.9",
     "langchain-openai>=1.7.2",
     "langgraph>=1.2.11",
+    "langgraph-checkpoint-postgres>=3.2.0",
     "langgraph-checkpoint-sqlite>=3.1.3",
 ]
