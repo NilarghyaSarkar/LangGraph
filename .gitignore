@@ -3,6 +3,4 @@
 uv.lock
 .venv
 main.py
-chatbot.db
-chatbot.db-shm
-chatbot.db-wal
+Memory
